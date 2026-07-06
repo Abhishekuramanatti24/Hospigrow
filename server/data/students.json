@@ -1,0 +1,29 @@
+[
+  {
+    "id": "STU001",
+    "name": "Ananya Sharma",
+    "email": "ananya.sharma@student.edu",
+    "password": "$2a$10$beoSJweCC4BJTQiLbDmWz.cu3i6aigU2f6xwOzEXCZMd6lH1ctFVS",
+    "course": "MBBS",
+    "semester": "3rd Semester",
+    "profileImage": null
+  },
+  {
+    "id": "STU002",
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@student.edu",
+    "password": "$2a$10$NUaIYfVM2X1/inICk/bsiOoid1Xk9xq7q7We7TNcVQBr9Ja07TwWS",
+    "course": "MBBS",
+    "semester": "5th Semester",
+    "profileImage": null
+  },
+  {
+    "id": "STU003",
+    "name": "Priya Nair",
+    "email": "priya.nair@student.edu",
+    "password": "$2a$10$G.IkRh5IT4lU.NebLSCjTe3R6MaMMFeoAgUqs3Zi3cOEnDthuzXOy",
+    "course": "MBBS",
+    "semester": "1st Semester",
+    "profileImage": null
+  }
+]

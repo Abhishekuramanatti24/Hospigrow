@@ -1,0 +1,50 @@
+[
+  {
+    "id": "SUB001",
+    "name": "Anatomy",
+    "description": "Study of the structure of the human body and its parts.",
+    "image": null,
+    "totalChapters": 8,
+    "progressByStudent": {
+      "STU001": { "progress": 75, "completedChapters": 6 },
+      "STU002": { "progress": 40, "completedChapters": 3 },
+      "STU003": { "progress": 10, "completedChapters": 1 }
+    }
+  },
+  {
+    "id": "SUB002",
+    "name": "Physiology",
+    "description": "Study of the normal functions of living organisms and their parts.",
+    "image": null,
+    "totalChapters": 10,
+    "progressByStudent": {
+      "STU001": { "progress": 55, "completedChapters": 5 },
+      "STU002": { "progress": 20, "completedChapters": 2 },
+      "STU003": { "progress": 0, "completedChapters": 0 }
+    }
+  },
+  {
+    "id": "SUB003",
+    "name": "Biochemistry",
+    "description": "Study of chemical processes within and relating to living organisms.",
+    "image": null,
+    "totalChapters": 7,
+    "progressByStudent": {
+      "STU001": { "progress": 30, "completedChapters": 2 },
+      "STU002": { "progress": 71, "completedChapters": 5 },
+      "STU003": { "progress": 0, "completedChapters": 0 }
+    }
+  },
+  {
+    "id": "SUB004",
+    "name": "Microbiology",
+    "description": "Study of microorganisms and their effects on living organisms.",
+    "image": null,
+    "totalChapters": 6,
+    "progressByStudent": {
+      "STU001": { "progress": 0, "completedChapters": 0 },
+      "STU002": { "progress": 16, "completedChapters": 1 },
+      "STU003": { "progress": 0, "completedChapters": 0 }
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ASG001",
+    "studentId": "STU001",
+    "title": "Submit Upper Limb Dissection Report",
+    "subject": "Anatomy",
+    "dueDate": "2026-07-10",
+    "status": "pending"
+  },
+  {
+    "id": "ASG002",
+    "studentId": "STU001",
+    "title": "Cardiac Cycle Case Study",
+    "subject": "Physiology",
+    "dueDate": "2026-07-14",
+    "status": "pending"
+  },
+  {
+    "id": "ASG003",
+    "studentId": "STU001",
+    "title": "Enzyme Kinetics Worksheet",
+    "subject": "Biochemistry",
+    "dueDate": "2026-07-08",
+    "status": "pending"
+  },
+  {
+    "id": "ASG004",
+    "studentId": "STU001",
+    "title": "Histology Slide Review",
+    "subject": "Anatomy",
+    "dueDate": "2026-06-28",
+    "status": "submitted"
+  },
+  {
+    "id": "ASG005",
+    "studentId": "STU002",
+    "title": "Bacterial Culture Lab Notes",
+    "subject": "Microbiology",
+    "dueDate": "2026-07-12",
+    "status": "pending"
+  },
+  {
+    "id": "ASG006",
+    "studentId": "STU002",
+    "title": "Amino Acid Structures Quiz Prep",
+    "subject": "Biochemistry",
+    "dueDate": "2026-07-09",
+    "status": "pending"
+  },
+  {
+    "id": "ASG007",
+    "studentId": "STU003",
+    "title": "Cell Structure Basics Worksheet",
+    "subject": "Anatomy",
+    "dueDate": "2026-07-15",
+    "status": "pending"
+  }
+]

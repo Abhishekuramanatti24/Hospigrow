@@ -1,0 +1,68 @@
+[
+  {
+    "studentId": "STU001",
+    "continueLearning": {
+      "subjectId": "SUB002",
+      "subjectName": "Physiology",
+      "chapterId": "CH005",
+      "chapterName": "Cardiovascular System",
+      "topicId": "TOP012",
+      "topicName": "Cardiac Cycle Phases",
+      "progress": 55
+    },
+    "overallProgress": 62,
+    "quickStats": {
+      "completedTopics": 34,
+      "totalTopics": 120,
+      "completedChapters": 13,
+      "totalChapters": 31,
+      "completedSubjects": 0,
+      "totalSubjects": 4,
+      "studyStreakDays": 6
+    }
+  },
+  {
+    "studentId": "STU002",
+    "continueLearning": {
+      "subjectId": "SUB003",
+      "subjectName": "Biochemistry",
+      "chapterId": "CH002",
+      "chapterName": "Enzymes",
+      "topicId": "TOP004",
+      "topicName": "Enzyme Kinetics",
+      "progress": 71
+    },
+    "overallProgress": 37,
+    "quickStats": {
+      "completedTopics": 18,
+      "totalTopics": 120,
+      "completedChapters": 6,
+      "totalChapters": 31,
+      "completedSubjects": 0,
+      "totalSubjects": 4,
+      "studyStreakDays": 2
+    }
+  },
+  {
+    "studentId": "STU003",
+    "continueLearning": {
+      "subjectId": "SUB001",
+      "subjectName": "Anatomy",
+      "chapterId": "CH001",
+      "chapterName": "Introduction to Anatomy",
+      "topicId": "TOP001",
+      "topicName": "Anatomical Terminology",
+      "progress": 10
+    },
+    "overallProgress": 5,
+    "quickStats": {
+      "completedTopics": 3,
+      "totalTopics": 120,
+      "completedChapters": 1,
+      "totalChapters": 31,
+      "completedSubjects": 0,
+      "totalSubjects": 4,
+      "studyStreakDays": 1
+    }
+  }
+]
